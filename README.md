@@ -37,13 +37,9 @@
 <div align="center">
 
 ### 📫 Как со мной связаться
-<br>
-<a href="https://t.me/Vovchenskii" target="_blank">
-    <span>Telegram</span>
-</a>
- &nbsp;&nbsp;или&nbsp;&nbsp;
-<a href="https://discord.com/users/963408750469845082" target="_blank" style="text-decoration: none;">
-    Discord
-</a>
+
+<a href="https://t.me/Vovchenskii" target="_blank">Telegram</a>
+&nbsp;&nbsp;или&nbsp;&nbsp;
+<a href="https://discord.com/users/963408750469845082" target="_blank">Discord</a>
 
 </div>
