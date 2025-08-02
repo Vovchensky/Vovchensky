@@ -42,7 +42,7 @@
     <span>Telegram</span>
 </a>
  &nbsp;&nbsp;или&nbsp;&nbsp;
-<a href="https://discord.com/users/963408750469845082" target="_blank">
+<a href="https://discord.com/users/963408750469845082" target="_blank" style="text-decoration: none;">
     Discord
 </a>
 
