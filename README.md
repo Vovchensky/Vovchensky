@@ -28,10 +28,8 @@
 
 ---
 
-### 📊 Моя статистика GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vovchensky&show_icons=true&theme=dark" width="48%"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovchensky&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vovchensky&show_icons=true&theme=dark" width="48%" padding="2.5px"  />
 </div>
 
 ---
@@ -41,11 +39,11 @@
 ### 📫 Как со мной связаться
 
 <a href="https://t.me/Vovchenskii" target="_blank">
-  <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" width="50" style="background: #0088CC; padding: 10px; border-radius: 5px; margin: 0 10px;" alt="Telegram" />
+  <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" width="50" style="padding: 10px; margin: 0 10px;" alt="Telegram" />
 </a>
 
 <a href="https://discord.com/users/963408750469845082" target="_blank">
-  <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="50" style="background: #5865F2; padding: 10px; border-radius: 5px; margin: 0 10px;" alt="Discord" />
+  <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="50" style="padding: 10px; margin: 0 10px;" alt="Discord" />
 </a>
 
 </div>
