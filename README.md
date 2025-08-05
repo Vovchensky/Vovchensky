@@ -29,8 +29,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vovchensky&show_icons=true&theme=dark" width="49%" padding="2.5px" height="200px"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovchensky&layout=compact&theme=dark" width="49%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vovchensky&show_icons=true&theme=dark" width="48%" padding="2.5px" />
 </div>
 
 ---
