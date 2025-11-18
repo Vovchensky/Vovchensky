@@ -17,6 +17,7 @@
   <img src="https://vitejs.dev/logo.svg" width="50" style="background: #646CFF; padding: 8px; border-radius: 5px;" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="background: #3178C6; padding: 8px; border-radius: 5px;" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="background: #61DAFB; padding: 8px; border-radius: 5px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="Redux" />
 <p>
 
 ---
