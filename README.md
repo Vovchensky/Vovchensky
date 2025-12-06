@@ -23,12 +23,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vovchensky&show_icons=true&theme=dark" width="48%" padding="2.5px" />
-</div>
-
----
-
-<div align="center">
 
 ### 📫 Как со мной связаться
 
