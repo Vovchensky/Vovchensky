@@ -2,11 +2,11 @@
   <h1>👋 Привет, я Vovchensky!</h1>
 </div>
 
-> Я увлекаюсь созданием сайтов и веб-приложений.  
+> Занимаюсь разработкой Telegram и Discord ботов, сайтов и веб-приложений.
 >  
 > Получаю удовольствие как от процесса разработки, так и от конечного результата.  
 >  
-> Люблю создавать интерактивные и красивые интерфейсы.
+> Люблю создавать удобные и функциональные проекты.
 
 ---
 
@@ -17,6 +17,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="background: #3178C6; padding: 8px; border-radius: 5px;" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="background: #61DAFB; padding: 8px; border-radius: 5px;" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="Redux" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="discord.js" title="discord.js" />
+  <img src="https://grammy.dev/images/Y.svg" width="50" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="grammY" title="grammY" />
 <p>
 
 ---
