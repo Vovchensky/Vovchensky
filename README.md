@@ -13,6 +13,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" style="background: #E44D26; padding: 8px; border-radius: 5px;" alt="HTML5" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" style="background: #1572B6; padding: 8px; border-radius: 5px;" alt="CSS3" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" style="background: #1572B6; padding: 8px; border-radius: 5px;" alt="Sass" title="Sass" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="background: #F7DF1E; padding: 8px; border-radius: 5px;" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" style="background: #3178C6; padding: 8px; border-radius: 5px;" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" style="background: #61DAFB; padding: 8px; border-radius: 5px;" alt="React" title="React" />
