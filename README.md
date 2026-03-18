@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="NestJS" title="NestJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="45" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="discord.js" title="discord.js" />
   <img src="https://grammy.dev/images/Y.svg" width="45" style="background: #FFFFFF; padding: 8px; border-radius: 5px;" alt="grammY" title="grammY" />
 <p>
